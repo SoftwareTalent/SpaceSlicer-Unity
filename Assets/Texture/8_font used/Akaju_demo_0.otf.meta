@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6bb6adde182422749ae6f3343ba2fc31
+timeCreated: 1511749790
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Akaju
+  fontNames:
+  - Akaju
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
